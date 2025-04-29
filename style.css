@@ -1,6 +1,9 @@
 *{
-    font size :14px
+    font-size :14px
 }
 body{
     background-color:aquamarine
+}
+*{
+    margin: 0
 }
